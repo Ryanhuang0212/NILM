@@ -25,3 +25,4 @@ Research Contributions
   Develop a practical NILM framework applicable to smart grids, home energy systems, and industrial energy management
   Enhance real-time load identification accuracy and system responsiveness
   Support energy-saving strategies and green energy promotion with strong potential for real-world deployment
+![image](https://github.com/user-attachments/assets/d2041eeb-9225-462e-8a23-984d88bcda6b)
