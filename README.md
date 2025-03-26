@@ -1,4 +1,4 @@
-# NILM
+# Non-Intrusive-Load-Monitoring
 Research Objectives
   Develop a low-cost, high-performance NILM system architecture
   Improve the accuracy of real-time load identification
