@@ -26,4 +26,4 @@ Research Contributions
   Enhance real-time load identification accuracy and system responsiveness
   Support energy-saving strategies and green energy promotion with strong potential for real-world deployment
   
-![image](https://github.com/user-attachments/assets/d2041eeb-9225-462e-8a23-984d88bcda6b)
+![image](https://github.com/user-attachments/assets/1b68923c-015e-4142-b860-e6a6d665627d)
